@@ -31,7 +31,7 @@
 * What can I say, take a look for yourself...
 
 <div style="text-align: center;">
-<b>As stated in the title, there are categories (tabs / classes) in the menu:</b><br>
+<b>Now you are presented with the same menu :</b><br>
 
 <img src="https://i.ibb.co/ZfZ57S3/B0-C26580-3-A24-43-EC-BEB7-2-ECF8-B6-E844-B.jpg">
 </div>
