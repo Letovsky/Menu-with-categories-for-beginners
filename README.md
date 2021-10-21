@@ -4,7 +4,7 @@
 <div style="text-align: center;">
 <b>Fully editable code:</b><br>
 
-<img src="https://i.ibb.co/VD986KK/7-CC1-DEC5-ACAE-43-D3-B963-16-ED9-B85-E8-E5.jpg">
+<img src="T">
 </div>
 
 <br>
