@@ -20,3 +20,11 @@
 <br>
 
 ### YOU CAN EASILY CHANGE THE, ON THE FIRST LINES OF THE CODES.
+
+### What functions are there in the menu?
+* A colored button that changes color when pressed.
+* Text Slider / Switch.
+* Headings.
+* Links to the author (All links are supported).
+* Mega beautiful watermark.
+* Categories with backlight.
