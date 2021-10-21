@@ -14,7 +14,7 @@
 <div style="text-align: center;">
 <b>As stated in the title, there are categories (tabs / classes) in the menu:</b><br>
 
-<img src="https://cdn.discordapp.com/attachments/889540966057390091/900874758009274368/image0.png">
+<img src="https://i.ibb.co/xf4mKsc/EF2-C3348-8827-4907-888-A-434-E31-E734-BC.jpg">
 </div>
 
 <br>
